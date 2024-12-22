@@ -1,0 +1,2 @@
+# Air-Quality-Analysis-and-Prediction-Using-Random-Forest
+**Air Quality Analysis and Prediction Using Random Forest** leverages the `city_day.csv` dataset to analyze pollution trends and predict AQI through classification and regression models. It includes preprocessing, feature selection, visualizations, and next-day AQI predictions, showcasing machine learning applications in environmental science.
